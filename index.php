@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo "this is Computron, your answer to everything!";
+        echo "This is Computron, your answer to everything!";
         ?>
     </body>
 </html>
